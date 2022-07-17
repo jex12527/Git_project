@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("第一次修改！");
         System.out.println("第二次修改！");
         System.out.println("jex分支修改！");
+        System.out.println("master最后的修改！");
     }
 }
